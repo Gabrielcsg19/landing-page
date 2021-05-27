@@ -169,6 +169,10 @@
   color: var(--secondary-color);
 }
 
+.close-menu {
+  display: none;
+}
+
 @media (max-width: 800px) {
   .intro-content, .grid {
     grid-template-columns: 1fr;
