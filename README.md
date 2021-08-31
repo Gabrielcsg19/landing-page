@@ -1,6 +1,6 @@
 <h1 align="center">landing-page</h1><br>
 
-![Screenshot 2021-08-18 at 11-00-49 Landing Page](https://user-images.githubusercontent.com/54643425/129912134-8cc7c293-2b61-46a1-85c8-6614939af101.png)
+![Screenshot 2021-08-18 at 11-00-49 Landing Page](https://raw.githubusercontent.com/Gabrielcsg19/landing-page/master/assets/cover-img.png)
 
 ---
 Landing page responsiva desenvolvida com __HTML__ e __CSS__.
